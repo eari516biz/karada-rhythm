@@ -20,10 +20,20 @@ def generate_draft(topic_category="姿勢・運動", limit=10):
             if line.strip():
                 items.append(json.loads(line))
 
-    # Filter items by category or prioritize Tier A
-    target_items = [item for item in items if topic_category in item.get('target_category', '') or not topic_category]
+    # Diversity Guard: Ensure no single channel dominates (max 1-2 items per channel)
+    selected = []
+    channel_counts = {}
+    
+    # Prioritize Tier A first
     target_items.sort(key=lambda x: 0 if x.get('tier') == 'Tier A' else 1)
-    selected = target_items[:limit]
+    
+    for item in target_items:
+        ch = item.get('source_channel', 'unknown')
+        if channel_counts.get(ch, 0) < 2:  # max 2 per expert
+            selected.append(item)
+            channel_counts[ch] = channel_counts.get(ch, 0) + 1
+        if len(selected) >= limit:
+            break
 
     if not selected:
         print(f"No items found for category: {topic_category}")

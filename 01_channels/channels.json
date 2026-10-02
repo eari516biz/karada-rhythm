@@ -1,62 +1,86 @@
 [
   {
-    "channel_id": "UC-a9wiNTKiLIRLTyIRdNbMg",
-    "channel_name": "オガトレ",
-    "category": "理学療法・ストレッチ",
-    "expert_type": "理学療法士"
+    "channel_id": "UCVnKuQPV6OiMxL78gNVrO8g",
+    "channel_name": "筑波大学国際統合睡眠医科学研究機構(WPI-IIIS)",
+    "expert_name": "柳沢正史 教授（ラスカー賞・文化功労者）陣",
+    "category": "睡眠科学・体内時計・覚醒機構",
+    "authority_level": "世界最高峰研究機関"
   },
   {
-    "channel_id": "UC1WkFVOCTPdY782AJ1PZ-JQ",
-    "channel_name": "精神科医・樺沢紫苑の樺チャンネル",
-    "category": "精神・睡眠・自律神経",
-    "expert_type": "精神科医"
-  },
-  {
-    "channel_id": "UCsulu2ghMsPVFeI5yVcb6aQ",
-    "channel_name": "ドクターハッシー/内科医 橋本将吉",
-    "category": "内科・生活習慣・健康管理",
-    "expert_type": "内科医"
+    "channel_id": "UCrSlM9husXJwj0uwTFfYuag",
+    "channel_name": "ブレインスリープch",
+    "expert_name": "西野精治 教授（スタンフォード大学睡眠生体リズム研究所長）監修",
+    "category": "睡眠生理学・黄金の90分・深部体温",
+    "authority_level": "国際的睡眠医学権威"
   },
   {
     "channel_id": "UCcD89sg8P2miam7RWKz8eqQ",
     "channel_name": "睡眠専門医渥美正彦",
-    "category": "睡眠・体内時計・覚醒",
-    "expert_type": "睡眠専門医"
+    "expert_name": "渥美正彦 医師（日本睡眠学会認定医）",
+    "category": "臨床睡眠外来・不眠症・中途覚醒",
+    "authority_level": "臨床睡眠専門医"
   },
   {
-    "channel_id": "UCVNN1mymESxxJem-D-Tu8CA",
-    "channel_name": "Nピラティス〜ゼロからわかる解剖学〜",
-    "category": "解剖学・姿勢・身体操作",
-    "expert_type": "理学療法士"
+    "channel_id": "UCqLclx8mBLWfN8wbrTAhkSA",
+    "channel_name": "【公式】ドクター小林弘幸の健康のカルテ",
+    "expert_name": "小林弘幸 教授（順天堂大学医学部）",
+    "category": "自律神経機能・腸内環境・血流調整",
+    "authority_level": "自律神経研究の国内パイオニア"
   },
   {
-    "channel_id": "UCIi3eljKIQgOw8ekwXIumuQ",
-    "channel_name": "薬師寺偲 【理学療法士・ピラティス】",
-    "category": "理学療法・動作改善・関節",
-    "expert_type": "理学療法士"
+    "channel_id": "UCBfbz1EBjqS8dihvKBxnr5Q",
+    "channel_name": "運動器疼痛マネジメント",
+    "expert_name": "松平浩 特任教授（東京大学医学部附属病院）",
+    "category": "運動器疼痛・腰痛エビデンス・脊椎",
+    "authority_level": "腰痛・運動器疼痛の国内最高権威"
   },
   {
-    "channel_id": "UC1tU4Rbu07JlvKSRmGVft8w",
-    "channel_name": "痛みの専門医チャンネル",
-    "category": "神経・疼痛緩和・血流",
-    "expert_type": "麻酔科医・ペインクリニック専門医"
+    "channel_id": "UCnx2cUtZncMc7al7UE0fzNg",
+    "channel_name": "眼科医平松類",
+    "expert_name": "平松類 医師（二本松眼科病院副院長）",
+    "category": "眼精疲労・ピント調節筋・緑内障予防",
+    "authority_level": "眼科専門医・医学博士"
   },
   {
-    "channel_id": "UCS02b3Y9RCzsT2k4no6LN-g",
-    "channel_name": "友利新公式チャンネル(内科・皮膚科医)",
-    "category": "生体科学・食事・日常医学",
-    "expert_type": "内科医・皮膚科医"
-  },
-  {
-    "channel_id": "UCV2G7uXFvBq6XYrM5TDgfNA",
-    "channel_name": "胃と腸の健康解説 内視鏡チャンネル",
-    "category": "消化器・腸内環境・水分補給",
-    "expert_type": "消化器内科医"
+    "channel_id": "UCfJUFLnV-f7B23bh7AGk1wA",
+    "channel_name": "公益社団法人日本理学療法士協会",
+    "expert_name": "日本理学療法士協会 公式",
+    "category": "理学療法・リハビリ・公的身体機能ガイドライン",
+    "authority_level": "公的学術団体・職能団体"
   },
   {
     "channel_id": "UCdWx7i7pcy8fkwCM7c6aByA",
     "channel_name": "運動と医学の出版社",
-    "category": "運動学・リハビリ・関節運動",
-    "expert_type": "理学療法士・整形外科領域"
+    "expert_name": "園部俊晴 氏（理学療法士・整形外科リハビリ権威）",
+    "category": "解剖学・関節機能・バイオメカニクス",
+    "authority_level": "理学療法専門書・臨床指導権威"
+  },
+  {
+    "channel_id": "UCVNN1mymESxxJem-D-Tu8CA",
+    "channel_name": "Nピラティス〜ゼロからわかる解剖学〜",
+    "expert_name": "吉田直樹 氏（理学療法士・ピラティス指導者）",
+    "category": "筋連結・骨盤アライメント・解剖学",
+    "authority_level": "理学療法士・解剖学臨床実践"
+  },
+  {
+    "channel_id": "UC-a9wiNTKiLIRLTyIRdNbMg",
+    "channel_name": "オガトレ",
+    "expert_name": "尾形竜之介 氏（理学療法士）",
+    "category": "日常ストレッチ・デスクワーク疲労解消",
+    "authority_level": "理学療法士"
+  },
+  {
+    "channel_id": "UCV2G7uXFvBq6XYrM5TDgfNA",
+    "channel_name": "胃と腸の健康解説 内視鏡チャンネル",
+    "expert_name": "消化器内科専門医",
+    "category": "消化機能・胃食道逆流・水分吸収",
+    "authority_level": "消化器病専門医"
+  },
+  {
+    "channel_id": "UC1WkFVOCTPdY782AJ1PZ-JQ",
+    "channel_name": "精神科医・樺沢紫苑の樺チャンネル",
+    "expert_name": "樺沢紫苑 医師（精神科医）",
+    "category": "朝の体内時計・セロトニン・脳疲労",
+    "authority_level": "精神科専門医"
   }
 ]
