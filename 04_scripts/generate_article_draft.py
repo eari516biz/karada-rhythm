@@ -24,6 +24,9 @@ def generate_draft(topic_category="姿勢・運動", limit=10):
     selected = []
     channel_counts = {}
     
+    # Filter items by category
+    target_items = [item for item in items if topic_category in item.get('target_category', '') or not topic_category]
+
     # Prioritize Tier A first
     target_items.sort(key=lambda x: 0 if x.get('tier') == 'Tier A' else 1)
     
