@@ -30,10 +30,10 @@ def generate_draft(topic_category="姿勢・運動", limit=10):
         return
 
     lines = []
-    lines.append(f"# 【日常調律手帖 Vol.1】プロが現場で教える身体の知恵 {len(selected)}選")
+    lines.append(f"# 【からだリズム Vol.1】プロが現場で教える身体の知恵 {len(selected)}選")
     lines.append("\n日常生活で感じる身体のコリやだるさ。ネットで調べると「とりあえずストレッチ」「姿勢を正しく」といった当たり前の情報ばかりが目につきます。")
     lines.append("しかし、理学療法士や専門医など、日頃から身体の現場と向き合っているプロの指導を見てみると、私たちが思っている「常識」とは少し違った、具体的で効果的なアプローチが存在します。")
-    lines.append("\n今回は、現場のプロが実践している『日常の身体調律法』を厳選してご紹介します。\n")
+    lines.append("\n今回は、現場のプロが実践している『からだリズムの整え方』を厳選してご紹介します。\n")
     lines.append("---\n")
 
     for idx, item in enumerate(selected, 1):
