@@ -2,7 +2,7 @@
 
 **文書バージョン**: v1.1.0  
 **制定日**: 2026-10-02  
-**管轄**: note-project / daily_tuning (karada_rhythm)  
+**管轄**: note-project / karada_rhythm  
 **著者**: アイン（Ein）＆ 樫月雫（どら）  
 
 ---
@@ -40,7 +40,7 @@
 
 ### 3.1 ディレクトリ構成
 ```
-daily_tuning/  (GitHubリポジトリ: karada-rhythm)
+karada_rhythm/  (GitHubリポジトリ: karada-rhythm)
 ├── .github/workflows/
 │   └── daily_collector.yml       # クラウド自動定期収集ワークフロー
 ├── 01_channels/
