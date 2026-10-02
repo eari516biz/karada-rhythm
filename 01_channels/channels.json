@@ -82,5 +82,131 @@
     "expert_name": "樺沢紫苑 医師（精神科医）",
     "category": "朝の体内時計・セロトニン・脳疲労",
     "authority_level": "精神科専門医"
+  },
+  {
+    "channel_id": "UCvr6Spi30-P_zZZ_a16CSbA",
+    "channel_name": "ZZZ.Lab睡眠専門医　下浦ゆうた",
+    "expert_name": "下浦ゆうた 医師",
+    "category": "睡眠・いびき・睡眠外来",
+    "authority_level": "睡眠専門医"
+  },
+  {
+    "channel_id": "UCMDVqtQxax5_OThkyn6uv8g",
+    "channel_name": "【ひざの痛み専門】セルフエクササイズ教室",
+    "expert_name": "理学療法士",
+    "category": "膝関節・歩行・下肢疼痛",
+    "authority_level": "理学療法士"
+  },
+  {
+    "channel_id": "UCRIwVPtqUskaOWnZ7KRmbrQ",
+    "channel_name": "府中オステオパシー まるちゃん整体院",
+    "expert_name": "理学療法士",
+    "category": "姿勢改善・脊柱・骨盤",
+    "authority_level": "理学療法士"
+  },
+  {
+    "channel_id": "UCCusD9iY4wRjHQLoS5w8nMw",
+    "channel_name": "すなリハチャンネル",
+    "expert_name": "理学療法士",
+    "category": "脳卒中リハビリ・運動学",
+    "authority_level": "理学療法士"
+  },
+  {
+    "channel_id": "UCYFzlFpYQ3ExE6uD848JiIw",
+    "channel_name": "産婦人科医 高尾美穂からのリアルボイス",
+    "expert_name": "高尾美穂 医師",
+    "category": "女性ホルモン・更年期・自律神経",
+    "authority_level": "産婦人科専門医・医学博士"
+  },
+  {
+    "channel_id": "UC7C5oRm6cGgbjJdPPEVeNMA",
+    "channel_name": "精神科医がこころの病気を解説するCh",
+    "expert_name": "益田裕介 医師",
+    "category": "精神医学・認知行動療法・脳疲労",
+    "authority_level": "精神科専門医"
+  },
+  {
+    "channel_id": "UCP0RK-WubVVU-qa1uHtS-aA",
+    "channel_name": "Dr.五島史行の耳鼻科チャンネル",
+    "expert_name": "五島史行 医師",
+    "category": "めまい・耳鳴り・鼻呼吸・自律神経",
+    "authority_level": "耳鼻咽喉科専門医"
+  },
+  {
+    "channel_id": "UCdMyfKocWSpS9X38fia9SJg",
+    "channel_name": "日本歯科医師会公式チャンネル",
+    "expert_name": "日本歯科医師会",
+    "category": "咀嚼・噛み合わせ・口腔機能・無呼吸",
+    "authority_level": "公的職能団体"
+  },
+  {
+    "channel_id": "UCAho78QY18cs0hk3OFJYEdQ",
+    "channel_name": "東京大学病院 / The University of Tokyo Hospital",
+    "expert_name": "東京大学医学部附属病院",
+    "category": "大学病院・最先端臨床医学",
+    "authority_level": "大学病院"
+  },
+  {
+    "channel_id": "UCSr2bDBynbDkphw0sg3OqQw",
+    "channel_name": "みんなの健康塾ちゃんねる",
+    "expert_name": "麻生総合病院グループ",
+    "category": "総合医療・予防医学・生活習慣病",
+    "authority_level": "総合病院・医療法人"
+  },
+  {
+    "channel_id": "UCZvjDImBBu1nKpa2n2pNTBQ",
+    "channel_name": "医療・介護・健康の情報を発信！洛和会ヘルスケアシステム公式チャンネル",
+    "expert_name": "洛和会ヘルスケアシステム",
+    "category": "地域医療・リハビリ・健康増進",
+    "authority_level": "医療法人"
+  },
+  {
+    "channel_id": "UCL3r15dHeqwRB7PEFncoKfQ",
+    "channel_name": "松下記念病院",
+    "expert_name": "松下記念病院",
+    "category": "総合医療・臨床医学解説",
+    "authority_level": "総合病院"
+  },
+  {
+    "channel_id": "UCA_K3GUlJ0BRulhcfoSDdZA",
+    "channel_name": "丸子中央病院",
+    "expert_name": "丸子中央病院",
+    "category": "総合医療・リハビリテーション",
+    "authority_level": "総合病院"
+  },
+  {
+    "channel_id": "UCWtOKMY2FKxyqBKDEfRAB5g",
+    "channel_name": "関節トレーニング 笹川ひろひで",
+    "expert_name": "笹川大瑛 氏",
+    "category": "関節トレーニング・サボリ筋・運動機能",
+    "authority_level": "理学療法士"
+  },
+  {
+    "channel_id": "UCf-TLpzYxN1U_RQvpBQIw1A",
+    "channel_name": "ドクターまさてる / 整形外科医 北城雅照",
+    "expert_name": "北城雅照 医師（整形外科専門医）",
+    "category": "整形外科・関節痛・骨密度",
+    "authority_level": "整形外科専門医"
+  },
+  {
+    "channel_id": "UC1tU4Rbu07JlvKSRmGVft8w",
+    "channel_name": "痛みの専門医チャンネル",
+    "expert_name": "麻酔科医・ペインクリニック専門医",
+    "category": "慢性疼痛・神経ブロック・血流",
+    "authority_level": "麻酔科・ペインクリニック専門医"
+  },
+  {
+    "channel_id": "UCS02b3Y9RCzsT2k4no6LN-g",
+    "channel_name": "友利新公式チャンネル(内科・皮膚科医)",
+    "expert_name": "友利新 医師（内科医・皮膚科医）",
+    "category": "生体科学・皮膚・食事・生活習慣",
+    "authority_level": "内科医・皮膚科医"
+  },
+  {
+    "channel_id": "UC5aI70uomqXBUHxxlTzDV7A",
+    "channel_name": "米盛病院スマハピチャンネル",
+    "expert_name": "社会医療法人緑泉会 米盛病院",
+    "category": "整形外科・救急医療・リハビリ",
+    "authority_level": "地域中核総合病院"
   }
 ]
